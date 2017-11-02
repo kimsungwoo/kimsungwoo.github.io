@@ -32,9 +32,6 @@ imagefeature: ""
 videocredit: 
 ---
 
-Howdy! This is an example blog post that shows features supported in **lanyon-plus** theme. See [raw post](https://raw.githubusercontent.com/dyndna/lanyon-plus/master/_posts/2013-01-01-example-content.md) for required YAML header and liquid tag specifications.
-
-<!--more-->
 
 * TOC
 {:toc}
