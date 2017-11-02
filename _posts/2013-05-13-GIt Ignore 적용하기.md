@@ -3,7 +3,7 @@ layout: post
 title: "Git Ignore적용하기"
 date: "2013-05-13"
 slug: "example_content"
-description: "Example content from lanyon. If page description is more than 140 words, it will be shown as post summary on home page and blog index else post excerpt will be shown. Same rule is for html meta description: >140 words in description or first 50 words of posts will be shown as summary. Page excerpt supports markdown formatted summary."
+description: "gitignore`파일은 비 추적 파일을 지정합니다. Git이 이미 추적 한 파일은 영향을받지 않습니다. gitignore파일의 각 행은 패턴을 지정합니다."
 category: 
   - 개발
   - 안드로이드
@@ -60,11 +60,12 @@ git commit -m "fixed untracked files”
 {% endhighlight %}
 
 
-[Andorid gitignore][www.naver.com]
+### Git Ignore For Android
 
-### gist embed
+<code data-gist-id="00e5729d1f5dbd492f55baf3c83c4daf" data-gist-file=".gitignore_android" ></code>
 
-Below is a partial code showing main steps of merge function.
 
-<code data-gist-id="00e5729d1f5dbd492f55baf3c83c4daf" data-gist-file=".gitignore_android" data-gist-line="50-52,57,65-69,80,88-90,100-106"></code>
+### Git Ignore For Python
+
+<code data-gist-id="6bcba188755a5f3a563733dffb6bea37" data-gist-file=".gitignore_python" ></code>
 
