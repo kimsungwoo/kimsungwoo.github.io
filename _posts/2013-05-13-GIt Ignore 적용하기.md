@@ -59,10 +59,9 @@ git commit -m "fixed untracked files”
 
 ### Git Ignore For Android
 
-<code data-gist-id="00e5729d1f5dbd492f55baf3c83c4daf" data-gist-file=".gitignore_android" ></code>
+<script src="https://gist.github.com/kimsungwoo/00e5729d1f5dbd492f55baf3c83c4daf"></script>
 
 
 ### Git Ignore For Python
 
-<code data-gist-id="6bcba188755a5f3a563733dffb6bea37" data-gist-file=".gitignore_python" ></code>
-
+<script src="https://gist.github.com/kimsungwoo/6bcba188755a5f3a563733dffb6bea37"></script>
