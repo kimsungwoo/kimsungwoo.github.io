@@ -49,8 +49,8 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 
 # About/contact
 author:
-  name:              Foo Boo
-  url:               https://twitter.com/abcd
+  name:              swkim
+  url:               https://github.com/kimsungwoo
   avatar:         foo.png
   #email:           
 
@@ -94,7 +94,7 @@ links:
     url: /feed.xml
 
 # Google Custom Search:
-google_search: swkim
+#google_search: swkim
 
 # Twitter stream widget:
 # Replace xyz123abc with your twitter widget id from https://twitter.com/settings/widgets
