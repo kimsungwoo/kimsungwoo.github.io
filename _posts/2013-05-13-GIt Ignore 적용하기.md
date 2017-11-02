@@ -3,7 +3,7 @@ layout: post
 title: "Git Ignore적용하기"
 date: "2013-05-13"
 slug: "example_content"
-description: "gitignore파일은 비 추적 파일을 지정합니다. Git이 이미 추적 한 파일은 영향을받지 않습니다. gitignore파일의 각 행은 패턴을 지정합니다."
+description: "gitignore파일은 비 추적 파일을 지정합니다. Git이 이미 추적 한 파일은 영향을받지 않습니다. gitignore파일의 각 행은 패턴을 지정합니다.Git은 경로를 무시할지 여부를 결정할 때 일반적으로 gitignore다음 우선 순위와 함께 여러 소스의 패턴을 가장 높은 순서에서 가장 낮은 순서로 검사합니다 (한 수준의 우선 순위 내에서 마지막 일치하는 패턴이 결과를 결정합니다)"
 category: 
   - 개발
   - 안드로이드
