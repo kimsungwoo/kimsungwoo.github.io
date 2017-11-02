@@ -51,13 +51,13 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 author:
   name:              swkim
   url:               https://github.com/kimsungwoo
-  avatar:         foo.png
+  avatar:         profile.png
   #email:           
 
 # Owner/author information
 owner:
   name:           swkim
-  avatar:         foo.png
+  avatar:         profile.png
   #email:          
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:

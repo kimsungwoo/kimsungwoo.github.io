@@ -47,7 +47,7 @@ gitignore파일의 각 행은 패턴을 지정합니다.
 ### 사용법
 
 
-{% highlight js %}
+{% highlight styl %}
 
 .gitignore Command
 git rm -r --cached
