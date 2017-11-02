@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: index.html
-title: Personal Homepage of foo boo
+title: 방긋 개발자 블로그
 description: "Blogging on ...."
 ---
 
