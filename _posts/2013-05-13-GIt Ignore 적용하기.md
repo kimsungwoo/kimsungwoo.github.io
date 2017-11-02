@@ -3,7 +3,7 @@ layout: post
 title: "Git Ignore적용하기"
 date: "2013-05-13"
 slug: "example_content"
-description: "gitignore`파일은 비 추적 파일을 지정합니다. Git이 이미 추적 한 파일은 영향을받지 않습니다. gitignore파일의 각 행은 패턴을 지정합니다."
+description: "gitignore파일은 비 추적 파일을 지정합니다. Git이 이미 추적 한 파일은 영향을받지 않습니다. gitignore파일의 각 행은 패턴을 지정합니다."
 category: 
   - 개발
   - 안드로이드
@@ -44,7 +44,7 @@ gitignore파일의 각 행은 패턴을 지정합니다.
 .gitignore경로와 같은 디렉토리 또는 상위 디렉토리 의 파일에서 읽은 패턴은 상위 레벨 파일 (작업 트리의 최상위 레벨까지)의 패턴이 하위 레벨 파일의 패턴에 의해 덮어 쓰여지고 파일. 이 패턴은 .gitignore파일 의 위치에 상대적으로 일치 합니다. 프로젝트는 일반적으로 프로젝트 .gitignore저장소의 일부로 생성 된 파일 패턴을 포함하는 해당 파일을 저장소에 포함합니다.
 
 
-## 사용법
+### 사용법
 
 
 {% highlight js %}
@@ -59,9 +59,9 @@ git commit -m "fixed untracked files”
 
 ### Git Ignore For Android
 
-<script src="https://gist.github.com/kimsungwoo/00e5729d1f5dbd492f55baf3c83c4daf"></script>
+<code data-gist-id="00e5729d1f5dbd492f55baf3c83c4daf" data-gist-file=".gitignore_android" ></code>
 
 
 ### Git Ignore For Python
 
-<script src="https://gist.github.com/kimsungwoo/6bcba188755a5f3a563733dffb6bea37"></script>
+<code data-gist-id="6bcba188755a5f3a563733dffb6bea37" data-gist-file=".gitignore_python" ></code>
