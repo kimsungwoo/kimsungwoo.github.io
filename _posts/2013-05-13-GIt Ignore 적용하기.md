@@ -5,12 +5,12 @@ date: "2013-05-13"
 slug: "example_content"
 description: "Example content from lanyon. If page description is more than 140 words, it will be shown as post summary on home page and blog index else post excerpt will be shown. Same rule is for html meta description: >140 words in description or first 50 words of posts will be shown as summary. Page excerpt supports markdown formatted summary."
 category: 
-  - views
-  - featured
+  - 개발
+  - 안드로이드
 # tags will also be used as html meta keywords.
 tags:
-  - examples
-  - common_tag
+  - gitignore
+  - git
 show_meta: true
 comments: true
 mathjax: true
@@ -27,9 +27,9 @@ summaryfeed: false
 ## for twitter card with large image:
 # imagefeature: "http://img.youtube.com/vi/VEIrQUXm_hY/0.jpg"
 ## for twitter video card: (active for this page)
-videofeature: "https://www.youtube.com/embed/iG9CE55wbtY"
-imagefeature: "http://img.youtube.com/vi/iG9CE55wbtY/0.jpg"
-videocredit: tedtalks
+videofeature: ""
+imagefeature: ""
+videocredit: 
 ---
 
 Howdy! This is an example blog post that shows features supported in **lanyon-plus** theme. See [raw post](https://raw.githubusercontent.com/dyndna/lanyon-plus/master/_posts/2013-01-01-example-content.md) for required YAML header and liquid tag specifications.
@@ -60,7 +60,7 @@ git commit -m "fixed untracked files”
 {% endhighlight %}
 
 
-[Andorid gitignore])[www.naver.com]
+[Andorid gitignore][www.naver.com]
 
 ### gist embed
 
