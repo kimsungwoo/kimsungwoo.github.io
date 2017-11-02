@@ -66,11 +66,11 @@ owner:
   facebook:       
   github:         kimsungwoo
   stackexchange:  
-  linkedin:       https://www.linkedin.com/in/foo
+  linkedin:       https://www.linkedin.com/in/%EC%84%B1%EC%9A%B0-%EA%B9%80-021b63119
   instagram:      
   flickr:
   tumblr:  
-  google_plus:    https://plus.google.com/+foo
+  google_plus:    
   # orcid and google scholar IDs are different than standard username.
   orcid: kimsungwoo
   gscholar: kimsungwoo
@@ -88,14 +88,8 @@ links:
     url: /tags/
   - title: <i class="fa fa-archive"></i> Archive
     url: /archive/
-  - title: <i class="iconside iconm-wordpress"></i> Old Blog
-    url: https://foo.wordpress.com
-    external: true
   - title: <i class="iconside iconm-envelop"></i> Contact
     url: /contact/
-  - title: <i class="iconside iconm-twitter"></i> Twitter
-    url: https://twitter.com/abcd
-    external: true
   - title: <i class="iconside iconm-feed2"></i> Feed
     url: /feed.xml
 
