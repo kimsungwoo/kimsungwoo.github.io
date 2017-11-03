@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Git Ignore적용하기"
+title: "Dagger2 Android Library 사용하기"
 date: "2017-11-02"
 slug: "example_content"
-description: "gitignore파일은 비 추적 파일을 지정합니다. Git이 이미 추적 한 파일은 영향을받지 않습니다. gitignore파일의 각 행은 패턴을 지정합니다.Git은 경로를 무시할지 여부를 결정할 때 일반적으로 gitignore다음 우선 순위와 함께 여러 소스의 패턴을 가장 높은 순서에서 가장 낮은 순서로 검사합니다 (한 수준의 우선 순위 내에서 마지막 일치하는 패턴이 결과를 결정합니다)"
+description: "Dagger2에서 Android용 Library가 별도로 나왔습니다.Support Library를 사용하신다면 'com.google.dagger:dagger-android-support:2.11'를 추가해주시면됩니다.필요하면 gradle은 annotationProcessor를 지원하는 버전으로 Upgrade"
 category: 
   - 개발
   - 안드로이드
@@ -49,7 +49,7 @@ videocredit:
 #Dagger2-Android
 
 
-Dagger2에서 Android용 Library가 별도로 나왔군요
+Dagger2에서 Android용 Library가 별도로 나왔습니다.
 
 Support Library를 사용하신다면 'com.google.dagger:dagger-android-support:2.11'를 추가해주시면됩니다.
 필요하면 gradle은 annotationProcessor를 지원하는 버전으로 Upgrade
